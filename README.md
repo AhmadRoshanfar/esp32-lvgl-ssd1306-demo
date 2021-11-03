@@ -1,6 +1,6 @@
-# port-oled-ssd1306-lvgl-esp32
+# esp32-lvgl-ssd1306-demo
 
-git clone https://github.com/AhmadRoshanfar/port-oled-ssd1306-lvgl-esp32.git
+git clone https://github.com/AhmadRoshanfar/esp32-lvgl-ssd1306-demo.git
 
 cd port-oled-ssd1306-lvgl-esp32.git
 
